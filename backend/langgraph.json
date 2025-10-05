@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "job_processing": "./pipeline/langgraph_pipeline.py:graph"
+  },
+  "env": ".env",
+  "python_version": "3.11"
+}
