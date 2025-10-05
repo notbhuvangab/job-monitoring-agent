@@ -170,7 +170,10 @@ New jobs automatically appear as they're processed .
 
 ---
 
-
 ### 3. Jobs Dashboard
+
+
+<img src="dashboard.gif"></img>
+
 
 
