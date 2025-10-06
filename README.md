@@ -167,6 +167,7 @@ New jobs automatically appear as they're processed .
 
 <img src="image.png"></img>
 
+<img width="808" height="650" alt="image" src="https://github.com/user-attachments/assets/1c73906d-ef60-40f7-b1d2-cbb6820dc46e" />
 
 ---
 
